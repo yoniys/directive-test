@@ -1,1 +1,1 @@
-(start the test)[https://yoniys.github.io/directive-test/index.html]
+[start the test](https://yoniys.github.io/directive-test/index.html)
